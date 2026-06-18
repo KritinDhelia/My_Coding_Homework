@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Divide_Operation
+comment0.text=\r\n\ Write\ a\ program\ to\ input\ 2\ numbers\ and\ find\ out\ quotient\ and\ remainder\ without\ using\ (*,\ /,\ %(modulus))\r\n\ @author\ (Kritin)\r\n\ @version\ (1.0,14/4/26)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrimePalinGen
+comment1.params=a\ b
+comment1.target=PrimePalinGen(int,\ int)
+comment2.params=
+comment2.target=void\ generate()
+comment3.params=i
+comment3.target=int\ isPrime(int)
+comment4.params=i
+comment4.target=int\ isPalin(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
